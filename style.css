@@ -257,18 +257,17 @@ main {
 }
 
 
-@media screen and (max-width: 500px) {
-    
+@media screen and (max-width: 900px) {
+        body {
+            background-image: url("vermillion--o-castelo-do-vampiro-22803565-100820211135.jpg");
+        }
 }
 
 @media screen and (min-width: 992px) {
-    .section-center {
-        width: 95vw;
-  }
+        .section-center {
+            width: 95vw;
+    }
+    body {
+        background-image: url("vermillion--o-castelo-do-vampiro-22803565-100820211135.jpg");
+    }
 }
-
-@media screen and (min-width: 800px) {   
-   
-    
-   
-  }
