@@ -54,7 +54,7 @@ function addItem(e) {
         // append child
         list.appendChild(element);
         // display alert
-        displayAlert("item added to the list", "success");
+        displayAlert("The item has been claimed by the night!", "success");
         // show container
         container.classList.add("show-container");
         // set local storage
@@ -63,13 +63,13 @@ function addItem(e) {
         setBackToDefault();
       } else if (value !== "" && editFlag) {
         editElement.innerHTML = value;
-        displayAlert("value changed", "success");
+        displayAlert("The curse has been altered!", "success");
     
         // edit  local storage
         editLocalStorage(editID, value);
         setBackToDefault();
       } else {
-        displayAlert("please enter item", "danger");
+        displayAlert("Whisper the name of your need!", "danger");
       }
     }
     // display alert
@@ -80,7 +80,7 @@ function addItem(e) {
       setTimeout(function () {
         alert.textContent = "";
         alert.classList.remove(`alert-${action}`);
-      }, 1000);
+      }, 2000);
     }
     
     // clear items
@@ -92,7 +92,7 @@ function addItem(e) {
         });
       }
       container.classList.remove("show-container");
-      displayAlert("empty list", "danger");
+      displayAlert("The dark ledger is blank!", "danger");
       setBackToDefault();
       localStorage.removeItem("list");
     }
@@ -108,7 +108,7 @@ function addItem(e) {
       if (list.children.length === 0) {
         container.classList.remove("show-container");
       }
-      displayAlert("item removed", "danger");
+      displayAlert("The offering has been banished!", "danger");
     
       setBackToDefault();
       // remove from local storage
@@ -131,7 +131,7 @@ function addItem(e) {
       grocery.value = "";
       editFlag = false;
       editID = "";
-      submitBtn.textContent = "submit";
+      submitBtn.textContent = "SEAL THE DEAL  🩸";
     }
     
     // ****** local storage **********
