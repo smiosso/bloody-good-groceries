@@ -270,6 +270,8 @@ main {
 /*         background-image: url("vermillion--o-castelo-do-vampiro-22789121-070820211242.jpg"); */
         background-size: cover;
         background-position: center;
+        height: 100vh;
+        width: 100vw;
     }
     
     .section-center {
