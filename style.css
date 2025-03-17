@@ -256,7 +256,7 @@ main {
     color: var(--red1);
 }
 
-
+/* mobile screen */
 @media screen and (max-width: 900px) {
     body {
         background-image: url("vermillion--o-castelo-do-vampiro-22803565-100820211135.jpg");
@@ -264,10 +264,10 @@ main {
         background-position: center;
     }
 }
-
+/* desktop screen */
 @media screen and (min-width: 901px) {
     body {
-        background-image: url("vermillion--o-castelo-do-vampiro-22789121-070820211242.jpg");
+/*         background-image: url("vermillion--o-castelo-do-vampiro-22789121-070820211242.jpg"); */
         background-size: cover;
         background-position: center;
     }
