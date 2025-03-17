@@ -265,7 +265,7 @@ main {
     }
 }
 /* desktop screen */
-@media screen and (min-width: 901px) {
+/* @media screen and (min-width: 901px) {
     body {
         background-image: url("night-at-dracula-1.webp");
         background-size: cover;
@@ -277,4 +277,4 @@ main {
     .section-center {
         width: 95vw;
     }
-}
+} */
