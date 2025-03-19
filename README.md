@@ -28,11 +28,11 @@ Bloody Good Groceries is a web application that helps Dracula manage his shoppin
 
 Clone this repository:
 
-`git clone https://github.com/seu-usuario/bloody-good-groceries.git`
+```git clone https://github.com/seu-usuario/bloody-good-groceries.git```
 
 2- Navigate to the project folder:
 
-`cd bloody-good-groceries`
+```cd bloody-good-groceries```
 
 3- Open the index.html file in your browser.
 
