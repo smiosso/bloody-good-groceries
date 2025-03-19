@@ -2,7 +2,7 @@
 
 Welcome to **Bloody Good Groceries**, Dracula's very own shopping list!
 
-![Bloody Good Groceries](cover.png)
+![Bloody Good Groceries](cover.PNG)
 
 
 This project was developed as an application for the Full Stack Bootcamp at ReDi School Berlin.
