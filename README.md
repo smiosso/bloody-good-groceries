@@ -2,7 +2,7 @@
 
 Welcome to **Bloody Good Groceries**, Dracula's very own shopping list!
 
-![Bloody Good Groceries](https://smiosso.github.io/bloody-good-groceries/conver.png)
+![Bloody Good Groceries](https://smiosso.github.io/bloody-good-groceries/cover.png)
 
 
 This project was developed as an application for the Full Stack Bootcamp at ReDi School Berlin.
