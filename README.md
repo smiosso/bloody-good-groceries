@@ -7,22 +7,22 @@ Welcome to **Bloody Good Groceries**, Dracula's very own shopping list!
 
 This project was developed as an application for the Full Stack Bootcamp at ReDi School Berlin.
 
-##🔗 Demo
+## 🔗 Demo
 
 [Bloody Good Groceries](https://smiosso.github.io/bloody-good-groceries/)
 
-##📌 Description
+## 📌 Description
 
 Bloody Good Groceries is a web application that helps Dracula manage his shopping lists in an interactive and efficient way. With a user-friendly interface and a unique design, the project aims to make his shopping experience more practical and fun.
 
-##🚀 Technologies Used
+## 🚀 Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
 - Git
 
-##📥 Installation
+## 📥 Installation
 
 1- If you want to run the project locally, follow these steps:
 Clone this repository:
@@ -33,14 +33,13 @@ Clone this repository:
 
 3- Open the index.html file in your browser.
 
-##📌 Contribution
+## 📌 Contribution
 
 If you would like to contribute to the project, feel free to open a pull request or report issues in the **Issues** tab.
 
-##📬 Contato
+## 📬 Contato
 
 GitHub: smiosso
 
 LinkedIn: https://www.linkedin.com/in/samantha-colognese-tamiosso/
 
-<img width="1515" alt="Captura de Tela 2025-03-19 às 19 51 01" src="https://github.com/user-attachments/assets/f3c5bbfc-1bc9-4416-b4a5-b75eb548e96b" />
